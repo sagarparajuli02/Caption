@@ -1,0 +1,104 @@
+[
+
+{
+"caption":"– No, I checked my receipt. I didn’t buy any of your bullshit."
+},
+{
+"caption":"Do expect me to get pissed off when you don’t answer!? Who do you think you are!? The delivery guy?"
+},
+{
+"caption":"If you treat a girl like a dog, she’s going to piss on you."
+},
+{
+"caption":"I didn’t kill anyone, jealousy did."
+},
+{
+"caption":"If you are testing my water, you better know how to swim."
+},
+{
+"caption":"I don’t know what’s tighter, our jeans or our friendship."
+},
+{
+"caption":"I swearI’mm nice girl until you do something that pisses me off.. then the bitch will come out to play."
+},
+{
+"caption":"I want a relationship like “Tom & Jerry” fight daily, still can’t live without each other."
+},
+{
+"caption":"– Cry only for cuts and stitches not for bastards and bitches."
+},
+{
+"caption":"My biggest problem? I notice everything."
+},
+{
+"caption":"It’s sad but life is full of sudden good bye’s."
+},
+{
+"caption":"I gave so much to someone who never appreciated it."
+},
+{
+"caption":"I’m a good person. But don’t give me a reason to show you my evil side."
+},
+{
+"caption":"Pay close attention to people who don’t clap when you win."
+},
+{
+"caption":"There are two reasons why we don’t trust people. First, we don’t know them. Second, we know them."
+},
+{
+"caption":"Be careful who you push away. Some of us don’t come back."
+}
+,
+{
+"caption":"It’s better to arrive late than to arrive ugly."
+}
+,
+{
+"caption":"When you actually matter to a person, they’ll make time for you. No lies, No excuses."
+},
+{
+"caption":"Because she competes with no one, no one can compete with her."
+},
+{
+"caption":"You will never be truly happy if you continuously hold on to the things that make you sad."
+},
+{
+"caption":"Change your thoughts and you’ll change your world."
+},
+{
+"caption":"Never be controlled by three things: Your past, Money, and People."
+},
+{
+"caption":"But without the dark, we’d never see the stars."
+},
+{
+"caption":"She says nothing when she wants to say everything."
+},
+{
+"caption":"You can’t just come into someone’s life, make them special and then leave."
+},
+{
+"caption":"One day you will find the one who makes all the others disappear."
+},
+{
+"caption":"I am who I am, I am what I am, I do what I do and I ain’t never gonna do it any different. I don’t care who likes it and who doesn’t."
+},
+{
+"caption":"The most important thing is to enjoy your life – to be happy – it’s all that matters."
+},
+{
+"caption":"Take every chance you get in life because some things only happen once."
+},
+{
+"caption":"I myself never feel that I’m sexy. If people call me cute, I am happier."
+},
+{
+"caption":"Hey, I just met you, this is crazy"
+},
+{
+"caption":"Chilling like a gangster."
+},
+{
+"caption":"Do not take life too seriously. You will never get out of it alive"
+}
+]

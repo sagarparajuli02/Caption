@@ -1,0 +1,63 @@
+[
+
+{
+"caption":"What made you fall for him? He never asked me to justify my past."
+},
+{
+"caption":"So Please, hold me close and make all this pain go away."
+},
+{
+"caption":"You can’t make them love you. They either do or they don’t. Recognize the difference and proceed accordingly."
+},
+{
+"caption":"When God gives you a “No,” give him a “Thank you.” He was protecting you from less than his best."
+},
+{
+"caption":"Sometimes what you want doesn’t deserve you."
+},
+{
+"caption":"Don’t let people know too much about you."
+},
+{
+"caption":"Sometimes we have to let go of what’s killing us, even if it’s killing us to let go."
+},
+{
+"caption":"It’s easy to stand with the crowd. It takes courage to stand alone."
+},
+{
+"caption":"You know you are happy when you catch yourself smiling even when no one is around."
+},
+{
+"caption":"I like to hang out with people who make me forget to look at my phone."
+},
+{
+"caption":"I cannot see heaven being much better than this."
+},
+{
+"caption":"Sometimes the nightmares we face are the dreams we used to chase."
+},
+{
+"caption":"I’ve been alone since day one. Silly me for thinking something meant to be could change."
+},
+{
+"caption":"Heaven in her eyes, hell behind mine."
+},
+{
+"caption":"And tonight I will fall asleep with you in my heart."
+},
+{
+"caption":"People fuck with your feelings until you have no more feelings."
+},
+{
+"caption":"The only person you need in life is the person who proves they need you in theirs."
+},
+{
+"caption":"Feelings are just visitors, let them come and go."
+},
+{
+"caption":"People cry not because they’re weak. It’s because they’ve been strong for too long."
+},
+{
+"caption":"You can’t rush something you want to last forever."
+}
+]

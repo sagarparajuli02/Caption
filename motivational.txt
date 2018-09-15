@@ -1,0 +1,76 @@
+[
+
+{
+"caption":"You never cross the ocean unless you have the courage to lose sight of the shore."
+},
+{
+"caption":"Some beautiful paths cant be discovered without getting lost."
+},
+{
+"caption":"If you live for other people’s acceptance you will die from their rejection."
+},
+{
+"caption":"Fill your life with adventures, not things. Have stories to tell, not stuff to show."
+},
+{
+"caption":"Don’t be afraid of death. be afraid of non-lived life. You don’t have to live forever, you just have to live."
+},
+{
+"caption":"When you love what you have everything you need."
+},
+{
+"caption":"Life is short there is no time to leave important words unsaid."
+},
+{
+"caption":"Stop letting people who do so little for you control so much of your emotions."
+},
+{
+"caption":"Sometimes you have to go up really high to understand how small you really are."
+},
+{
+"caption":"All I have ever wanted to be is who I am becoming."
+},
+{
+"caption":"Just smile and say I’m fine because nobody really cares."
+},
+{
+"caption":"Never waste an opportunity just because you’re shy."
+},
+{
+"caption":"Be proud of who you are and not ashamed of how someone else sees you."
+},
+{
+"caption":"I don’t really know why I’m still hoping."
+},
+{
+"caption":"Sometimes the love of your life comes after the mistake of your life."
+},
+{
+"caption":"I just need one person. To never give up on me. Just one."
+}
+,
+{
+"caption":"I’ve never met a strong person with an easy past."
+},
+{
+"caption":"I honestly don’t even understand my own feelings sometimes."
+},
+{
+"caption":"You cannot make someone understand a message they are not ready to receive."
+},
+{
+"caption":"You see a person’s true colors when you are no longer beneficial to their life."
+},
+{
+"caption":"Home is not a place, it’s a feeling."
+},
+{
+"caption":"When you learn to survive without anyone, you can survive anything."
+},
+{
+"caption":"The awesome moment is when you read someone’s status and you know that’s for you."
+},
+{
+"caption":"My circle is small because I am into quality, not quantity."
+}
+]

@@ -1,0 +1,84 @@
+[
+
+{
+"caption":"Walking past a class with your friends in it."
+},
+{
+"caption":"I’m not saying it was aliens, but it was Aliens!"
+},
+{
+"caption":"Oh, you’re a model? What’s your agency, Instagram?"
+},
+{
+"caption":"I don’t always surf the internet, but when I do, eyebrows!"
+},
+{
+"caption":"Weekend, please don’t leave me."
+},
+{
+"caption":"When Instagram was down, I ran around town shouting “like” at flowers, dogs, and expensive brunches."
+},
+{
+"caption":"A blind man walks into a bar… And a chair… and a table."
+},
+{
+"caption":"What if I told you, you can eat without posting it on Instagram."
+},
+{
+"caption":"If a dentist makes their money from unhealthy teeth, why would I trust a product 4/5 of them recommend?"
+},
+{
+"caption":"If I was funny, I would have a good Instagram caption."
+},
+{
+"caption":"I think you are lacking Vitamin me!"
+},
+{
+"caption":"Friday, my second favorite F word."
+},
+{
+"caption":"So you’re telling me I have a chance."
+},
+{
+"caption":"Yea, dating is cool but have you ever had stuffed crust pizza?"
+},
+{
+"caption":"Onions make me sad. A lot of people don’t realize that."
+},
+{
+"caption":"I don’t always study, but when I do, I don’t."
+},
+{
+"caption":"I liked memes before they were on Instagram"
+},
+{
+"caption":"Need an ark? I Noah guy."
+},
+{
+"caption":"I had fun once, it was horrible."
+},
+{
+"caption":"I need a six month holiday, twice a year."
+},
+{
+"caption":"So, you’re on Instagram? You must be an amazing photographer."
+},
+{
+"caption":"Women drivers rev my engine."
+},
+{
+"caption":"I’ll never try to fit in. I was born to STAND OUT."
+},
+{
+"caption":"Started from the bottom now we’re here."
+},
+{
+"caption":"Say “Beer Can” with a British accent. I just taught you to say “Bacon” with a Jamaican accent."
+},
+{
+"caption":"Give me the chocolate and nobody gets hurt."
+},
+{
+"caption":"I didn’t choose the thug life, the thug life chose me"
+}
+]
