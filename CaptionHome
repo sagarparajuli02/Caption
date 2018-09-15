@@ -17,21 +17,33 @@
 
 },
 {
-"name":"Break Up",
-"thumbnail":"http://1.bp.blogspot.com/-Oi3pcWQjZT8/TdfHPrEiTqI/AAAAAAAACV0/U95vUfdizGA/s1600/katrina+kaif+2011+hot.jpg",
-"imageGallery":"https://raw.githubusercontent.com/sagarparajuli02/SexyIndianModels/master/katrina"
+"name":"Girls",
+"thumbnail":"https://raw.githubusercontent.com/sagarparajuli02/Caption/master/images/girl.png",
+"imageGallery":"https://raw.githubusercontent.com/sagarparajuli02/Caption/master/girls.txt"
 
 },
 {
-"name":"Eve",
-"thumbnail":"http://1.bp.blogspot.com/-Oi3pcWQjZT8/TdfHPrEiTqI/AAAAAAAACV0/U95vUfdizGA/s1600/katrina+kaif+2011+hot.jpg",
-"imageGallery":"https://raw.githubusercontent.com/sagarparajuli02/SexyIndianModels/master/katrina"
+"name":"Selfie",
+"thumbnail":"https://raw.githubusercontent.com/sagarparajuli02/Caption/master/images/selfie.png",
+"imageGallery":"https://raw.githubusercontent.com/sagarparajuli02/Caption/master/selfie.txt"
 
 },
 {
-"name":"Marriage",
+"name":"Morning",
 "thumbnail":"https://raw.githubusercontent.com/sagarparajuli02/Caption/master/images/marry.png",
-"imageGallery":"https://raw.githubusercontent.com/sagarparajuli02/SexyIndianModels/master/katrina"
+"imageGallery":"https://raw.githubusercontent.com/sagarparajuli02/Caption/master/images/sunny.png"
+
+},
+{
+"name":"Songs",
+"thumbnail":"https://raw.githubusercontent.com/sagarparajuli02/Caption/master/images/music-player.png",
+"imageGallery":"https://raw.githubusercontent.com/sagarparajuli02/Caption/master/lyrics.txt"
+
+},
+{
+"name":"Love",
+"thumbnail":"https://raw.githubusercontent.com/sagarparajuli02/Caption/master/images/heart.png",
+"imageGallery":"https://raw.githubusercontent.com/sagarparajuli02/Caption/master/love.txt"
 
 }
 ]
