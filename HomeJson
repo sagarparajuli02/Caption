@@ -1,0 +1,62 @@
+[
+   {
+      "captionText":"Happy",
+      "image":"https://raw.githubusercontent.com/sagarparajuli02/Caption/master/images/happy.svg",
+      "captionUrl":"₹ 160"
+   },
+   {
+      "captionText":"Sad",
+      "image":"https://raw.githubusercontent.com/sagarparajuli02/Caption/master/images/sad.svg",
+      "captionUrl":"₹ 130"
+   },
+   {
+      "captionText":"Baahubali",
+      "image":"https://api.androidhive.info/json/movies/baahubali2.jpg",
+      "captionUrl":"₹ 210"
+   },
+   {
+      "captionText":"Sad",
+      "image":"https://api.androidhive.info/json/movies/thor_ragnarok.jpg",
+      "captionUrl":"₹ 170"
+   },
+   {
+      "captionText":"Corona",
+      "image":"https://api.androidhive.info/json/movies/justice_league.jpg",
+      "captionUrl":"₹ 120"
+   },
+   {
+      "captionText":"Coco",
+      "image":"https://api.androidhive.info/json/movies/coco.jpg",
+      "captionUrl":"₹ 110"
+   },
+   {
+      "captionText":"Jumanji",
+      "image":"https://api.androidhive.info/json/movies/jumanji.jpg",
+      "captionUrl":"₹ 120"
+   },
+   {
+      "captionText":"Murder",
+      "image":"https://api.androidhive.info/json/movies/murder_on_express.jpg",
+      "captionUrl":"₹ 160"
+   },
+   {
+      "captionText":"Spider",
+      "image":"https://api.androidhive.info/json/movies/spiderman_homecoming.jpg",
+      "captionUrl":"₹ 190"
+   },
+   {
+      "captionText":"Ferdinand",
+      "image":"https://api.androidhive.info/json/movies/ferdinand.jpg",
+      "captionUrl":"₹ 100"
+   },
+   {
+      "captionText":"Disaster",
+      "image":"https://api.androidhive.info/json/movies/disaster_artist.jpg",
+      "captionUrl":"₹ 90"
+   },
+   {
+      "captionText":"Girls",
+      "image":"https://api.androidhive.info/json/movies/lady_bird.jpg",
+      "captionUrl":"₹ 80"
+   }
+]
