@@ -1,84 +1,84 @@
 [
 
-{
-"caption":"Walking past a class with your friends in it."
-},
-{
-"caption":"Iím not saying it was aliens, but it was Aliens!"
-},
-{
-"caption":"Oh, youíre a model? Whatís your agency, Instagram?"
-},
-{
-"caption":"I donít always surf the internet, but when I do, eyebrows!"
-},
-{
-"caption":"Weekend, please donít leave me."
-},
-{
-"caption":"When Instagram was down, I ran around town shouting ìlikeî at flowers, dogs, and expensive brunches."
-},
-{
-"caption":"A blind man walks into a barÖ And a chairÖ and a table."
-},
-{
-"caption":"What if I told you, you can eat without posting it on Instagram."
-},
-{
-"caption":"If a dentist makes their money from unhealthy teeth, why would I trust a product 4/5 of them recommend?"
-},
-{
-"caption":"If I was funny, I would have a good Instagram caption."
-},
-{
-"caption":"I think you are lacking Vitamin me!"
-},
-{
-"caption":"Friday, my second favorite F word."
-},
-{
-"caption":"So youíre telling me I have a chance."
-},
-{
-"caption":"Yea, dating is cool but have you ever had stuffed crust pizza?"
-},
-{
-"caption":"Onions make me sad. A lot of people donít realize that."
-},
-{
-"caption":"I donít always study, but when I do, I donít."
-},
-{
-"caption":"I liked memes before they were on Instagram"
-},
-{
-"caption":"Need an ark? I Noah guy."
-},
-{
-"caption":"I had fun once, it was horrible."
-},
-{
-"caption":"I need a six month holiday, twice a year."
-},
-{
-"caption":"So, youíre on Instagram? You must be an amazing photographer."
-},
-{
-"caption":"Women drivers rev my engine."
-},
-{
-"caption":"Iíll never try to fit in. I was born to STAND OUT."
-},
-{
-"caption":"Started from the bottom now weíre here."
-},
-{
-"caption":"Say ìBeer Canî with a British accent. I just taught you to say ìBaconî with a Jamaican accent."
-},
-{
-"caption":"Give me the chocolate and nobody gets hurt."
-},
-{
-"caption":"I didnít choose the thug life, the thug life chose me"
-}
-]
+        {
+        "captionText":"Walking past a class with your friends in it."
+        },
+        {
+        "captionText":"I‚Äôm not saying it was aliens, but it was Aliens!"
+        },
+        {
+        "captionText":"Oh, you‚Äôre a model? What‚Äôs your agency, Instagram?"
+        },
+        {
+        "captionText":"I don‚Äôt always surf the internet, but when I do, eyebrows!"
+        },
+        {
+        "captionText":"Weekend, please don‚Äôt leave me."
+        },
+        {
+        "captionText":"When Instagram was down, I ran around town shouting ‚Äúlike‚Äù at flowers, dogs, and expensive brunches."
+        },
+        {
+        "captionText":"A blind man walks into a bar‚Ä¶ And a chair‚Ä¶ and a table."
+        },
+        {
+        "captionText":"What if I told you, you can eat without posting it on Instagram."
+        },
+        {
+        "captionText":"If a dentist makes their money from unhealthy teeth, why would I trust a product 4/5 of them recommend?"
+        },
+        {
+        "captionText":"If I was funny, I would have a good Instagram captionText."
+        },
+        {
+        "captionText":"I think you are lacking Vitamin me!"
+        },
+        {
+        "captionText":"Friday, my second favorite F word."
+        },
+        {
+        "captionText":"So you‚Äôre telling me I have a chance."
+        },
+        {
+        "captionText":"Yea, dating is cool but have you ever had stuffed crust pizza?"
+        },
+        {
+        "captionText":"Onions make me sad. A lot of people don‚Äôt realize that."
+        },
+        {
+        "captionText":"I don‚Äôt always study, but when I do, I don‚Äôt."
+        },
+        {
+        "captionText":"I liked memes before they were on Instagram"
+        },
+        {
+        "captionText":"Need an ark? I Noah guy."
+        },
+        {
+        "captionText":"I had fun once, it was horrible."
+        },
+        {
+        "captionText":"I need a six month holiday, twice a year."
+        },
+        {
+        "captionText":"So, you‚Äôre on Instagram? You must be an amazing photographer."
+        },
+        {
+        "captionText":"Women drivers rev my engine."
+        },
+        {
+        "captionText":"I‚Äôll never try to fit in. I was born to STAND OUT."
+        },
+        {
+        "captionText":"Started from the bottom now we‚Äôre here."
+        },
+        {
+        "captionText":"Say ‚ÄúBeer Can‚Äù with a British accent. I just taught you to say ‚ÄúBacon‚Äù with a Jamaican accent."
+        },
+        {
+        "captionText":"Give me the chocolate and nobody gets hurt."
+        },
+        {
+        "captionText":"I didn‚Äôt choose the thug life, the thug life chose me"
+        }
+        ]
