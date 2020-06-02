@@ -1,33 +1,33 @@
 [
 
-{
-"caption":"Loving you felt like leaving my apartment and not being able to remember if I locked the door."
-},
-{
-"caption":"If tears were ink, I would have written a big novel out of it!!"
-},
-{
-"caption":"Together, letís disappear into this night like two shooting stars."
-},
-{
-"caption":"Yours is the kind of love, Iíll never wake up from."
-},
-{
-"caption":"Like a warrior, my heart was meant to fight battles."
-},
-{
-"caption":"We were both blind. You couldnít see my love. I couldnít see your indifference."
-},
-{
-"caption":"How can something be so distant, so unknown, so damaged and yet so beautiful?"
-},
-{
-"caption":"I want a second chance at falling in love with you for the first time."
-},
-{
-"caption":"ìWhatís love?î A feeling which either ruins a friendship or makes it stronger."
-},
-{
-"caption":"Love became a memory I fear to remember."
-}
-]
+        {
+        "captionText":"Loving you felt like leaving my apartment and not being able to remember if I locked the door."
+        },
+        {
+        "captionText":"If tears were ink, I would have written a big novel out of it!!"
+        },
+        {
+        "captionText":"Together, let‚Äôs disappear into this night like two shooting stars."
+        },
+        {
+        "captionText":"Yours is the kind of love, I‚Äôll never wake up from."
+        },
+        {
+        "captionText":"Like a warrior, my heart was meant to fight battles."
+        },
+        {
+        "captionText":"We were both blind. You couldn‚Äôt see my love. I couldn‚Äôt see your indifference."
+        },
+        {
+        "captionText":"How can something be so distant, so unknown, so damaged and yet so beautiful?"
+        },
+        {
+        "captionText":"I want a second chance at falling in love with you for the first time."
+        },
+        {
+        "captionText":"‚ÄúWhat‚Äôs love?‚Äù A feeling which either ruins a friendship or makes it stronger."
+        },
+        {
+        "captionText":"Love became a memory I fear to remember."
+        }
+        ]
