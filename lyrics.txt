@@ -1,95 +1,95 @@
 [
-{
-"caption":"“I don’t wanna be alone forever, but I love gypsy life.”"
-},{
-"caption":"We found wonderland — you and I got lost in it."
-},{
-"caption":"“I can’t believe I’m telling you this but I’ve had a couple of drinks and…oh my god!”"
-},{
-"caption":"“Twenty-four-hour champagne diet”"
-},{
-"caption":"“Let’s celebrate with a toast and get lost in tonight”"
-},{
-"caption":"“Some girls won’t dance to the beat of the track.”"
-},{
-"caption":"I like the way you’re everything I’ve ever wanted."
-},{
-"caption":"“Put some lipstick on, perfume your neck and slip your high heels on, rinse and curl your hair, loosen your hips and get a dress to wear.”"
-},{
-"caption":"“Worrying about your followers, you need to get your dollars up”"
-},{
-"caption":"I could dance to this beat forevermore."
-},{
-"caption":"I got that red lip, classic thing that you like."
-},{
-"caption":"“Every time you see me I look like I hit the lotto twice”"
-},{
-"caption":"“I’m up right now and you suck right now”"
-},{
-"caption":"And I think about summer, all the beautiful times."
-},{
-"caption":"“Call me the referee because I am so official”"
-},{
-"caption":"Time won’t fly — it’s like I’m paralyzed by it."
-},{
-"caption":"“I’m just saying you could do better”"
-},{
-"caption":"Just because you’re clean don’t mean you don’t miss it."
-},{
-"caption":"“So baby raise a glass to mend all the broken hearts of all my wrecked up friends.”"
-},{
-"caption":"“So baby raise a glass to mend all the broken hearts of all my wrecked up friends.”"
-},{
-"caption":"“Fresher than a pillow with a mint on it”"
-},{
-"caption":"“I should’ve left my phone at home ‘cause this is a disaster.”"
-},{
-"caption":"“Get your hot rods ready to rumble ‘cause we’re gonna drink until we die.”"
-},{
-"caption":"Wasn’t it beautiful when you believed in everything?"
-},{
-"caption":"I’m dying to know: Is it killing you like it’s killing me? "
-},
-{
-"caption":"“Think before you come for the great one”"
-},
-{
-"caption":"I make the moves up as I go."
-},
-{
-"caption":"All we want is hot boys.”"
-},
-{
-"caption":"It’s hard not to find it all a little bittersweet."
-},
-{
-"caption":"“I’m here for a good time not a long time”"
-},
-{
-"caption":"“Write what you want, say what you want ‘bout me if you’re wondering, know that I’m not sorry.”"
-},
-{
-"caption":"I’ve found time can heal most anything."
-},
-{
-"caption":"“Stars in our eyes ‘cuz we’re having a good time.”"
-},
-{
-"caption":"We’re happy, free, confused, and lonely at the same time."
-},
-{
-"caption":"I think when it’s all over, it just comes back in flashes, you know?"
-},
-{
-"caption":"“My excuse is that I’m young”"
-},
-{
-"caption":"The best people in life are free."
-},
-{
-"caption":"“Live for today, plan for tomorrow, party tonight”"
-},
-{
-"caption":"I still ride with my day one”"
-}
-]
+        {
+        "captionText":"â€œI donâ€™t wanna be alone forever, but I love gypsy life.â€"
+        },{
+        "captionText":"We found wonderland â€” you and I got lost in it."
+        },{
+        "captionText":"â€œI canâ€™t believe Iâ€™m telling you this but Iâ€™ve had a couple of drinks andâ€¦oh my god!â€"
+        },{
+        "captionText":"â€œTwenty-four-hour champagne dietâ€"
+        },{
+        "captionText":"â€œLetâ€™s celebrate with a toast and get lost in tonightâ€"
+        },{
+        "captionText":"â€œSome girls wonâ€™t dance to the beat of the track.â€"
+        },{
+        "captionText":"I like the way youâ€™re everything Iâ€™ve ever wanted."
+        },{
+        "captionText":"â€œPut some lipstick on, perfume your neck and slip your high heels on, rinse and curl your hair, loosen your hips and get a dress to wear.â€"
+        },{
+        "captionText":"â€œWorrying about your followers, you need to get your dollars upâ€"
+        },{
+        "captionText":"I could dance to this beat forevermore."
+        },{
+        "captionText":"I got that red lip, classic thing that you like."
+        },{
+        "captionText":"â€œEvery time you see me I look like I hit the lotto twiceâ€"
+        },{
+        "captionText":"â€œIâ€™m up right now and you suck right nowâ€"
+        },{
+        "captionText":"And I think about summer, all the beautiful times."
+        },{
+        "captionText":"â€œCall me the referee because I am so officialâ€"
+        },{
+        "captionText":"Time wonâ€™t fly â€” itâ€™s like Iâ€™m paralyzed by it."
+        },{
+        "captionText":"â€œIâ€™m just saying you could do betterâ€"
+        },{
+        "captionText":"Just because youâ€™re clean donâ€™t mean you donâ€™t miss it."
+        },{
+        "captionText":"â€œSo baby raise a glass to mend all the broken hearts of all my wrecked up friends.â€"
+        },{
+        "captionText":"â€œSo baby raise a glass to mend all the broken hearts of all my wrecked up friends.â€"
+        },{
+        "captionText":"â€œFresher than a pillow with a mint on itâ€"
+        },{
+        "captionText":"â€œI shouldâ€™ve left my phone at home â€˜cause this is a disaster.â€"
+        },{
+        "captionText":"â€œGet your hot rods ready to rumble â€˜cause weâ€™re gonna drink until we die.â€"
+        },{
+        "captionText":"Wasnâ€™t it beautiful when you believed in everything?"
+        },{
+        "captionText":"Iâ€™m dying to know: Is it killing you like itâ€™s killing me? "
+        },
+        {
+        "captionText":"â€œThink before you come for the great oneâ€"
+        },
+        {
+        "captionText":"I make the moves up as I go."
+        },
+        {
+        "captionText":"All we want is hot boys.â€"
+        },
+        {
+        "captionText":"Itâ€™s hard not to find it all a little bittersweet."
+        },
+        {
+        "captionText":"â€œIâ€™m here for a good time not a long timeâ€"
+        },
+        {
+        "captionText":"â€œWrite what you want, say what you want â€˜bout me if youâ€™re wondering, know that Iâ€™m not sorry.â€"
+        },
+        {
+        "captionText":"Iâ€™ve found time can heal most anything."
+        },
+        {
+        "captionText":"â€œStars in our eyes â€˜cuz weâ€™re having a good time.â€"
+        },
+        {
+        "captionText":"Weâ€™re happy, free, confused, and lonely at the same time."
+        },
+        {
+        "captionText":"I think when itâ€™s all over, it just comes back in flashes, you know?"
+        },
+        {
+        "captionText":"â€œMy excuse is that Iâ€™m youngâ€"
+        },
+        {
+        "captionText":"The best people in life are free."
+        },
+        {
+        "captionText":"â€œLive for today, plan for tomorrow, party tonightâ€"
+        },
+        {
+        "captionText":"I still ride with my day oneâ€"
+        }
+        ]
