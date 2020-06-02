@@ -1,147 +1,147 @@
 [
 
-{
-"caption":"Cinderella never asked for a prince."
-},
-{
-"caption":"You don’t know me."
-},
-{
-"caption":"Every path has obstacles, but it is up to you to continue to smile and walk that path."
-},
-{
-"caption":"There’s a girl out there with love in her eyes and flowers in her hair."
-},
-{
-"caption":"You’re never going to have me."
-},
-{
-"caption":"It doesn’t matter what anyone else thinks of me because I know who I am, and I am damn proud of it."
-},
-{
-"caption":"There is no such thing as a perfect person, but someone’s heart can have a perfect intention."
-},
-{
-"caption":"Insecurities can make even the smartest and most beautiful woman foolishly question herself despite how amazing she truly is."
-},
-{
-"caption":"The best part of life is the opportunity to learn something new every day. Just when you think you know it all, you realize you didn’t know a thing."
-},
-{
-"caption":"Selfie Sunday."
-},
-{
-"caption":"Keep telling yourself good isn’t good enough. You deserve much more. You deserve GREATNESS."
-},
-{
-"caption":"People won’t always love you. They may love what you bring to the table and love what you may do for them, but that doesn’t mean"
-},
-{
-"caption":"they love you. Learn the difference, my friends."
-},
-{
-"caption":"The best mistake to never repeat is to never cry for the same problem twice."
-},
-{
-"caption":"Even the most beautiful women will have at least some insecurity, whether they admit it or not."
-},
-{
-"caption":"Learn to appreciate the people who want to be in your life and stop stressing over people who don’t want to be in your life."
-},
-{
-"caption":"Morning boys."
-},
-{
-"caption":"If you have eyes, look at me now!"
-},
-{
-"caption":"Don’t let your eyes be blinded by her beauty."
-},
-{
-"caption":"Always learn to stand on your own two feet or watch how you will crawl forever."
-},
-{
-"caption":"Don’t allow anyone to take the wheel and steer you in their direction because you will never truly be happy. Take control of your own life."
-},
-{
-"caption":"I was born to stand out."
-},
-{
-"caption":"I’m everything you want but can’t have."
-},
-{
-"caption":"Don’t hold your breath."
-},
-{
-"caption":"Life is better when you’re laughing."
-},
-{
-"caption":"When a man is truly passionate about his woman, he will do whatever it takes to ensure her happiness with him."
-},
-{
-"caption":"Always classy, never trashy, and a little bit sassy."
-},
-{
-"caption":"If you really love someone, you would not purposely do something to hurt that person."
-},
-{
-"caption":"You don’t have to jump high for people to like you, love you, want to be with you, and notice you. You just have to be yourself, and you will be accepted for who you are."
-},
-{
-"caption":"Before spending time trying to find someone, you must first find yourself."
-},
-{
-"caption":"Regardless of whatever crap life may throw at you, never stop having a moment filled with fun!"
-},
-{
-"caption":"Life is like a box of chocolate; sometimes you just dig out the good center parts and leave all the undesirable rest to waste."
-},
-{
-"caption":"I’d rather laugh with the sinners."
-},
-{
-"caption":"I’m the girl you’ve always wanted."
-},
-{
-"caption":"Don’t allow your habitual behavior to dictate who you truly are."
-},
-{
-"caption":"Never love anyone who treats you like you’re ordinary."
-},
-{
-"caption":"Stop being a zombie. Find something that you’re excited about in your life; otherwise, you’re just walking dead."
-},
-{
-"caption":"Dear guys, please get off of Facebook, take yourself outside, be a gentleman, and learn how to approach a woman in the real world, preferably one who is single and available."
-},
-{
-"caption":"People will judge you without knowing who you are, people will wish you bad things without knowing your story, but you don’t"
-},
-{
-"caption":"Sending my selfie to NASA, because I’m a star."
-},
-{
-"caption":"That annoying moment when you take a selfie, and your hair looks perfect but your face looks horrific."
-},
-{
-"caption":"Like it or not, you will eventually become a reflection of the company you keep."
-},
-{
-"caption":"I broke my own heart just by loving you."
-},
-{
-"caption":"This is the most magical pic of your life."
-},
-{
-"caption":"There’s a girl out there with love in her eyes and flowers in her hair."
-},
-{
-"caption":"Warning – You might fall in love with me."
-},
-{
-"caption":"I’m on a date, she isn’t very social."
-},
-{
-"caption":"Making people unsure about my gender on a daily basis."
-}
-]
+        {
+        "captionText":"Cinderella never asked for a prince."
+        },
+        {
+        "captionText":"You donâ€™t know me."
+        },
+        {
+        "captionText":"Every path has obstacles, but it is up to you to continue to smile and walk that path."
+        },
+        {
+        "captionText":"Thereâ€™s a girl out there with love in her eyes and flowers in her hair."
+        },
+        {
+        "captionText":"Youâ€™re never going to have me."
+        },
+        {
+        "captionText":"It doesnâ€™t matter what anyone else thinks of me because I know who I am, and I am damn proud of it."
+        },
+        {
+        "captionText":"There is no such thing as a perfect person, but someoneâ€™s heart can have a perfect intention."
+        },
+        {
+        "captionText":"Insecurities can make even the smartest and most beautiful woman foolishly question herself despite how amazing she truly is."
+        },
+        {
+        "captionText":"The best part of life is the opportunity to learn something new every day. Just when you think you know it all, you realize you didnâ€™t know a thing."
+        },
+        {
+        "captionText":"Selfie Sunday."
+        },
+        {
+        "captionText":"Keep telling yourself good isnâ€™t good enough. You deserve much more. You deserve GREATNESS."
+        },
+        {
+        "captionText":"People wonâ€™t always love you. They may love what you bring to the table and love what you may do for them, but that doesnâ€™t mean"
+        },
+        {
+        "captionText":"they love you. Learn the difference, my friends."
+        },
+        {
+        "captionText":"The best mistake to never repeat is to never cry for the same problem twice."
+        },
+        {
+        "captionText":"Even the most beautiful women will have at least some insecurity, whether they admit it or not."
+        },
+        {
+        "captionText":"Learn to appreciate the people who want to be in your life and stop stressing over people who donâ€™t want to be in your life."
+        },
+        {
+        "captionText":"Morning boys."
+        },
+        {
+        "captionText":"If you have eyes, look at me now!"
+        },
+        {
+        "captionText":"Donâ€™t let your eyes be blinded by her beauty."
+        },
+        {
+        "captionText":"Always learn to stand on your own two feet or watch how you will crawl forever."
+        },
+        {
+        "captionText":"Donâ€™t allow anyone to take the wheel and steer you in their direction because you will never truly be happy. Take control of your own life."
+        },
+        {
+        "captionText":"I was born to stand out."
+        },
+        {
+        "captionText":"Iâ€™m everything you want but canâ€™t have."
+        },
+        {
+        "captionText":"Donâ€™t hold your breath."
+        },
+        {
+        "captionText":"Life is better when youâ€™re laughing."
+        },
+        {
+        "captionText":"When a man is truly passionate about his woman, he will do whatever it takes to ensure her happiness with him."
+        },
+        {
+        "captionText":"Always classy, never trashy, and a little bit sassy."
+        },
+        {
+        "captionText":"If you really love someone, you would not purposely do something to hurt that person."
+        },
+        {
+        "captionText":"You donâ€™t have to jump high for people to like you, love you, want to be with you, and notice you. You just have to be yourself, and you will be accepted for who you are."
+        },
+        {
+        "captionText":"Before spending time trying to find someone, you must first find yourself."
+        },
+        {
+        "captionText":"Regardless of whatever crap life may throw at you, never stop having a moment filled with fun!"
+        },
+        {
+        "captionText":"Life is like a box of chocolate; sometimes you just dig out the good center parts and leave all the undesirable rest to waste."
+        },
+        {
+        "captionText":"Iâ€™d rather laugh with the sinners."
+        },
+        {
+        "captionText":"Iâ€™m the girl youâ€™ve always wanted."
+        },
+        {
+        "captionText":"Donâ€™t allow your habitual behavior to dictate who you truly are."
+        },
+        {
+        "captionText":"Never love anyone who treats you like youâ€™re ordinary."
+        },
+        {
+        "captionText":"Stop being a zombie. Find something that youâ€™re excited about in your life; otherwise, youâ€™re just walking dead."
+        },
+        {
+        "captionText":"Dear guys, please get off of Facebook, take yourself outside, be a gentleman, and learn how to approach a woman in the real world, preferably one who is single and available."
+        },
+        {
+        "captionText":"People will judge you without knowing who you are, people will wish you bad things without knowing your story, but you donâ€™t"
+        },
+        {
+        "captionText":"Sending my selfie to NASA, because Iâ€™m a star."
+        },
+        {
+        "captionText":"That annoying moment when you take a selfie, and your hair looks perfect but your face looks horrific."
+        },
+        {
+        "captionText":"Like it or not, you will eventually become a reflection of the company you keep."
+        },
+        {
+        "captionText":"I broke my own heart just by loving you."
+        },
+        {
+        "captionText":"This is the most magical pic of your life."
+        },
+        {
+        "captionText":"Thereâ€™s a girl out there with love in her eyes and flowers in her hair."
+        },
+        {
+        "captionText":"Warning â€“ You might fall in love with me."
+        },
+        {
+        "captionText":"Iâ€™m on a date, she isnâ€™t very social."
+        },
+        {
+        "captionText":"Making people unsure about my gender on a daily basis."
+        }
+        ]
