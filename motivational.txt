@@ -1,76 +1,76 @@
 [
 
-{
-"caption":"You never cross the ocean unless you have the courage to lose sight of the shore."
-},
-{
-"caption":"Some beautiful paths cant be discovered without getting lost."
-},
-{
-"caption":"If you live for other people’s acceptance you will die from their rejection."
-},
-{
-"caption":"Fill your life with adventures, not things. Have stories to tell, not stuff to show."
-},
-{
-"caption":"Don’t be afraid of death. be afraid of non-lived life. You don’t have to live forever, you just have to live."
-},
-{
-"caption":"When you love what you have everything you need."
-},
-{
-"caption":"Life is short there is no time to leave important words unsaid."
-},
-{
-"caption":"Stop letting people who do so little for you control so much of your emotions."
-},
-{
-"caption":"Sometimes you have to go up really high to understand how small you really are."
-},
-{
-"caption":"All I have ever wanted to be is who I am becoming."
-},
-{
-"caption":"Just smile and say I’m fine because nobody really cares."
-},
-{
-"caption":"Never waste an opportunity just because you’re shy."
-},
-{
-"caption":"Be proud of who you are and not ashamed of how someone else sees you."
-},
-{
-"caption":"I don’t really know why I’m still hoping."
-},
-{
-"caption":"Sometimes the love of your life comes after the mistake of your life."
-},
-{
-"caption":"I just need one person. To never give up on me. Just one."
-}
-,
-{
-"caption":"I’ve never met a strong person with an easy past."
-},
-{
-"caption":"I honestly don’t even understand my own feelings sometimes."
-},
-{
-"caption":"You cannot make someone understand a message they are not ready to receive."
-},
-{
-"caption":"You see a person’s true colors when you are no longer beneficial to their life."
-},
-{
-"caption":"Home is not a place, it’s a feeling."
-},
-{
-"caption":"When you learn to survive without anyone, you can survive anything."
-},
-{
-"caption":"The awesome moment is when you read someone’s status and you know that’s for you."
-},
-{
-"caption":"My circle is small because I am into quality, not quantity."
-}
-]
+        {
+        "captionText":"You never cross the ocean unless you have the courage to lose sight of the shore."
+        },
+        {
+        "captionText":"Some beautiful paths cant be discovered without getting lost."
+        },
+        {
+        "captionText":"If you live for other peopleâ€™s acceptance you will die from their rejection."
+        },
+        {
+        "captionText":"Fill your life with adventures, not things. Have stories to tell, not stuff to show."
+        },
+        {
+        "captionText":"Donâ€™t be afraid of death. be afraid of non-lived life. You donâ€™t have to live forever, you just have to live."
+        },
+        {
+        "captionText":"When you love what you have everything you need."
+        },
+        {
+        "captionText":"Life is short there is no time to leave important words unsaid."
+        },
+        {
+        "captionText":"Stop letting people who do so little for you control so much of your emotions."
+        },
+        {
+        "captionText":"Sometimes you have to go up really high to understand how small you really are."
+        },
+        {
+        "captionText":"All I have ever wanted to be is who I am becoming."
+        },
+        {
+        "captionText":"Just smile and say Iâ€™m fine because nobody really cares."
+        },
+        {
+        "captionText":"Never waste an opportunity just because youâ€™re shy."
+        },
+        {
+        "captionText":"Be proud of who you are and not ashamed of how someone else sees you."
+        },
+        {
+        "captionText":"I donâ€™t really know why Iâ€™m still hoping."
+        },
+        {
+        "captionText":"Sometimes the love of your life comes after the mistake of your life."
+        },
+        {
+        "captionText":"I just need one person. To never give up on me. Just one."
+        }
+        ,
+        {
+        "captionText":"Iâ€™ve never met a strong person with an easy past."
+        },
+        {
+        "captionText":"I honestly donâ€™t even understand my own feelings sometimes."
+        },
+        {
+        "captionText":"You cannot make someone understand a message they are not ready to receive."
+        },
+        {
+        "captionText":"You see a personâ€™s true colors when you are no longer beneficial to their life."
+        },
+        {
+        "captionText":"Home is not a place, itâ€™s a feeling."
+        },
+        {
+        "captionText":"When you learn to survive without anyone, you can survive anything."
+        },
+        {
+        "captionText":"The awesome moment is when you read someoneâ€™s status and you know thatâ€™s for you."
+        },
+        {
+        "captionText":"My circle is small because I am into quality, not quantity."
+        }
+        ]
