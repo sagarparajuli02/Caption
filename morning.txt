@@ -1,33 +1,33 @@
 [
 
-{
-"caption":"Life is like an elevator on your way up, sometimes you have to stop and let some people off."
-},
-{
-"caption":"If your life got harder, Congratulations! you just leveled up."
-},
-{
-"caption":"Good friends show their love in times of trouble, not just in times of happiness."
-},
-{
-"caption":"Soon we are going to see the real face of each other.. Until then, let’s pretend we’re perfect."
-},
-{
-"caption":"No matter how busy a person is if they really care they will always find time for you."
-},
-{
-"caption":"Be proud of yourself for how far you’ve come and never stop pushing to be the best you can be."
-},
-{
-"caption":"Beautiful people are not always good but good people are always beautiful."
-},
-{
-"caption":"Memes are just normal post if you don’t have a best friend to tag."
-},
-{
-"caption":"When you come to a point where you have no need to impress anybody. Your freedom will begin."
-},
-{
-"caption":"Love the people who saw you when you were invisible to everyone else."
-}
-]
+        {
+        "captionText":"Life is like an elevator on your way up, sometimes you have to stop and let some people off."
+        },
+        {
+        "captionText":"If your life got harder, Congratulations! you just leveled up."
+        },
+        {
+        "captionText":"Good friends show their love in times of trouble, not just in times of happiness."
+        },
+        {
+        "captionText":"Soon we are going to see the real face of each other.. Until then, letâ€™s pretend weâ€™re perfect."
+        },
+        {
+        "captionText":"No matter how busy a person is if they really care they will always find time for you."
+        },
+        {
+        "captionText":"Be proud of yourself for how far youâ€™ve come and never stop pushing to be the best you can be."
+        },
+        {
+        "captionText":"Beautiful people are not always good but good people are always beautiful."
+        },
+        {
+        "captionText":"Memes are just normal post if you donâ€™t have a best friend to tag."
+        },
+        {
+        "captionText":"When you come to a point where you have no need to impress anybody. Your freedom will begin."
+        },
+        {
+        "captionText":"Love the people who saw you when you were invisible to everyone else."
+        }
+        ]
