@@ -1,33 +1,33 @@
 [
 
 {
-"caption":"What hurts more, Breakup or Betrayal? ìReplacement,î a heart cried."
+"captionText":"What hurts more, Breakup or Betrayal? ‚ÄúReplacement,‚Äù a heart cried."
 },
 {
-"caption":"If you can change the priorities, Mind it, I very well know the game of ìtit for tat.î"
+"captionText":"If you can change the priorities, Mind it, I very well know the game of ‚Äútit for tat.‚Äù"
 },
 {
-"caption":"And now, In every broken piece, we search for our lost peace."
+"captionText":"And now, In every broken piece, we search for our lost peace."
 },
 {
-"caption":"So where are you heading? Towards him/her OR Towards the time you both spent."
+"captionText":"So where are you heading? Towards him/her OR Towards the time you both spent."
 },
 {
-"caption":"Darling!! ëMending of broken piecesí is in progress. Give it some time."
+"captionText":"Darling!! ‚ÄòMending of broken pieces‚Äô is in progress. Give it some time."
 },
 {
-"caption":"And then, I threw away love from my priority list, as it gave me ìoptions for loving anyone, I want.î"
+"captionText":"And then, I threw away love from my priority list, as it gave me ‚Äúoptions for loving anyone, I want.‚Äù"
 },
 {
-"caption":"Darling!! Donít be someoneís ìUntold storyî Or ìPoemî It hurts."
+"captionText":"Darling!! Don‚Äôt be someone‚Äôs ‚ÄúUntold story‚Äù Or ‚ÄúPoem‚Äù It hurts."
 },
 {
-"caption":"I donít remember us. I remember the ìLostî us."
+"captionText":"I don‚Äôt remember us. I remember the ‚ÄúLost‚Äù us."
 },
 {
-"caption":"Why does love hurt? everyone asks. Why does everyone become heartless? no one asks."
+"captionText":"Why does love hurt? everyone asks. Why does everyone become heartless? no one asks."
 },
 {
-"caption":"You broke me with a heartbreak but, why are you still breaking me with those memories?"
+"captionText":"You broke me with a heartbreak but, why are you still breaking me with those memories?"
 }
 ]
