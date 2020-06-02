@@ -1,104 +1,104 @@
 [
 
-{
-"caption":"ñ No, I checked my receipt. I didnít buy any of your bullshit."
-},
-{
-"caption":"Do expect me to get pissed off when you donít answer!? Who do you think you are!? The delivery guy?"
-},
-{
-"caption":"If you treat a girl like a dog, sheís going to piss on you."
-},
-{
-"caption":"I didnít kill anyone, jealousy did."
-},
-{
-"caption":"If you are testing my water, you better know how to swim."
-},
-{
-"caption":"I donít know whatís tighter, our jeans or our friendship."
-},
-{
-"caption":"I swearIímm nice girl until you do something that pisses me off.. then the bitch will come out to play."
-},
-{
-"caption":"I want a relationship like ìTom & Jerryî fight daily, still canít live without each other."
-},
-{
-"caption":"ñ Cry only for cuts and stitches not for bastards and bitches."
-},
-{
-"caption":"My biggest problem? I notice everything."
-},
-{
-"caption":"Itís sad but life is full of sudden good byeís."
-},
-{
-"caption":"I gave so much to someone who never appreciated it."
-},
-{
-"caption":"Iím a good person. But donít give me a reason to show you my evil side."
-},
-{
-"caption":"Pay close attention to people who donít clap when you win."
-},
-{
-"caption":"There are two reasons why we donít trust people. First, we donít know them. Second, we know them."
-},
-{
-"caption":"Be careful who you push away. Some of us donít come back."
-}
-,
-{
-"caption":"Itís better to arrive late than to arrive ugly."
-}
-,
-{
-"caption":"When you actually matter to a person, theyíll make time for you. No lies, No excuses."
-},
-{
-"caption":"Because she competes with no one, no one can compete with her."
-},
-{
-"caption":"You will never be truly happy if you continuously hold on to the things that make you sad."
-},
-{
-"caption":"Change your thoughts and youíll change your world."
-},
-{
-"caption":"Never be controlled by three things: Your past, Money, and People."
-},
-{
-"caption":"But without the dark, weíd never see the stars."
-},
-{
-"caption":"She says nothing when she wants to say everything."
-},
-{
-"caption":"You canít just come into someoneís life, make them special and then leave."
-},
-{
-"caption":"One day you will find the one who makes all the others disappear."
-},
-{
-"caption":"I am who I am, I am what I am, I do what I do and I ainít never gonna do it any different. I donít care who likes it and who doesnít."
-},
-{
-"caption":"The most important thing is to enjoy your life ñ to be happy ñ itís all that matters."
-},
-{
-"caption":"Take every chance you get in life because some things only happen once."
-},
-{
-"caption":"I myself never feel that Iím sexy. If people call me cute, I am happier."
-},
-{
-"caption":"Hey, I just met you, this is crazy"
-},
-{
-"caption":"Chilling like a gangster."
-},
-{
-"caption":"Do not take life too seriously. You will never get out of it alive"
-}
-]
+        {
+        "captionText":"‚Äì No, I checked my receipt. I didn‚Äôt buy any of your bullshit."
+        },
+        {
+        "captionText":"Do expect me to get pissed off when you don‚Äôt answer!? Who do you think you are!? The delivery guy?"
+        },
+        {
+        "captionText":"If you treat a girl like a dog, she‚Äôs going to piss on you."
+        },
+        {
+        "captionText":"I didn‚Äôt kill anyone, jealousy did."
+        },
+        {
+        "captionText":"If you are testing my water, you better know how to swim."
+        },
+        {
+        "captionText":"I don‚Äôt know what‚Äôs tighter, our jeans or our friendship."
+        },
+        {
+        "captionText":"I swearI‚Äômm nice girl until you do something that pisses me off.. then the bitch will come out to play."
+        },
+        {
+        "captionText":"I want a relationship like ‚ÄúTom & Jerry‚Äù fight daily, still can‚Äôt live without each other."
+        },
+        {
+        "captionText":"‚Äì Cry only for cuts and stitches not for bastards and bitches."
+        },
+        {
+        "captionText":"My biggest problem? I notice everything."
+        },
+        {
+        "captionText":"It‚Äôs sad but life is full of sudden good bye‚Äôs."
+        },
+        {
+        "captionText":"I gave so much to someone who never appreciated it."
+        },
+        {
+        "captionText":"I‚Äôm a good person. But don‚Äôt give me a reason to show you my evil side."
+        },
+        {
+        "captionText":"Pay close attention to people who don‚Äôt clap when you win."
+        },
+        {
+        "captionText":"There are two reasons why we don‚Äôt trust people. First, we don‚Äôt know them. Second, we know them."
+        },
+        {
+        "captionText":"Be careful who you push away. Some of us don‚Äôt come back."
+        }
+        ,
+        {
+        "captionText":"It‚Äôs better to arrive late than to arrive ugly."
+        }
+        ,
+        {
+        "captionText":"When you actually matter to a person, they‚Äôll make time for you. No lies, No excuses."
+        },
+        {
+        "captionText":"Because she competes with no one, no one can compete with her."
+        },
+        {
+        "captionText":"You will never be truly happy if you continuously hold on to the things that make you sad."
+        },
+        {
+        "captionText":"Change your thoughts and you‚Äôll change your world."
+        },
+        {
+        "captionText":"Never be controlled by three things: Your past, Money, and People."
+        },
+        {
+        "captionText":"But without the dark, we‚Äôd never see the stars."
+        },
+        {
+        "captionText":"She says nothing when she wants to say everything."
+        },
+        {
+        "captionText":"You can‚Äôt just come into someone‚Äôs life, make them special and then leave."
+        },
+        {
+        "captionText":"One day you will find the one who makes all the others disappear."
+        },
+        {
+        "captionText":"I am who I am, I am what I am, I do what I do and I ain‚Äôt never gonna do it any different. I don‚Äôt care who likes it and who doesn‚Äôt."
+        },
+        {
+        "captionText":"The most important thing is to enjoy your life ‚Äì to be happy ‚Äì it‚Äôs all that matters."
+        },
+        {
+        "captionText":"Take every chance you get in life because some things only happen once."
+        },
+        {
+        "captionText":"I myself never feel that I‚Äôm sexy. If people call me cute, I am happier."
+        },
+        {
+        "captionText":"Hey, I just met you, this is crazy"
+        },
+        {
+        "captionText":"Chilling like a gangster."
+        },
+        {
+        "captionText":"Do not take life too seriously. You will never get out of it alive"
+        }
+        ]
